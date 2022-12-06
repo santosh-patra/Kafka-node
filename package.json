@@ -1,0 +1,16 @@
+{
+  "name": "kafka_node",
+  "version": "1.0.0",
+  "description": "Will implement kafka with node js where bulk data will be passed through kafka and hit node js API one by one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santosh Patra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "kafkajs": "^2.2.3",
+    "npm": "^9.1.3"
+  }
+}
